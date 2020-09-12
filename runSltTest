@@ -1,0 +1,1 @@
+yes | java -cp DLUnit_autograde.jar edu.gvsu.cis351.Project2_slt
