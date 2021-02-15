@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Subtract",
+      "setup": "curl https://www.cis.gvsu.edu/~kurmasz/Autograder/DLUnit_autograde.jar --output DLUnit_autograde.jar",
+      "run": "sh ./runSubTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "SLT Test",
+      "setup": "curl https://www.cis.gvsu.edu/~kurmasz/Autograder/DLUnit_autograde.jar --output DLUnit_autograde.jar",
+      "run": "sh ./runSltTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
