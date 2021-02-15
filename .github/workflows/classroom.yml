@@ -1,5 +1,6 @@
     name: GitHub Classroom Workflow
 
+# Allow students to launch workflow manually.
     on:
       workflow_dispatch:
       push:
